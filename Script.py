@@ -2,13 +2,13 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},❤️‍🔥Mʏ Nᴀᴍe Is CinemaXplorers_Bot_Files ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And Advanced Online Watching and Fast Download BOT But No Theatre Prints Available in MY DB So Dont Search Theatre Prints 🤷‍♂️
 
 
-𝙈𝘼𝙄𝙉𝙏𝘼𝙄𝙉𝙀𝘿  𝘽𝙔 : @TeluguZone0 🙃</b>"""
+𝙈𝘼𝙄𝙉𝙏𝘼𝙄𝙉𝙀𝘿  𝘽𝙔 : @Telugumovies40 </b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ ᴍʏ ᴅᴇᴛᴀɪʟꜱ ]───⍟
- ‣ ᴍʏ ɴᴀᴍᴇ : Cinema Explorer Bot
+ ‣ ᴍʏ ɴᴀᴍᴇ : TELUGUMOVIES40BOT
  ‣ ᴍʏ ʙᴇꜱᴛ ꜰʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/Daemon990'>DAEMON</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
