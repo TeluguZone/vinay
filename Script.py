@@ -249,7 +249,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b> Size ⚙️: {file_size}
 
-JOIN:[TeluguZone](https://t.me/TeluguZone0)</b>""" 
+JOIN:[TeluguMovies](https://t.me/Telugumovies40)</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
